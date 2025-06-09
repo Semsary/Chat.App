@@ -1,0 +1,1074 @@
+{
+  "contacts": [
+    {
+      "_id": "679cd4fd1d833cbbf879f0a8",
+      "name": "فيلا",
+      "email": "Unknown",
+      "message": "Unknown",
+      "date": "2025-01-31T13:49:49.962Z",
+      "__v": 0,
+      "readed": true
+    },
+    {
+      "_id": "679cd51a1d833cbbf879f0aa",
+      "name": "فيلا",
+      "email": "43444",
+      "message": "Unk44444nown",
+      "date": "2025-01-31T13:50:18.427Z",
+      "__v": 0,
+      "readed": true
+    },
+    {
+      "_id": "679cd69d0523f251e2ad650c",
+      "name": "Mohamed badawy",
+      "email": "mohamedbadawysayed02@gmail.com",
+      "subject": "dsdsds",
+      "message": "dssdds",
+      "date": "2025-01-31T13:56:45.175Z",
+      "__v": 0,
+      "readed": true
+    },
+    {
+      "_id": "679ce14bab0c97f4654fd850",
+      "name": "محمد بدوي السيد ",
+      "email": "mohamedbadawysayed02@gmail.com",
+      "subject": "Adipisicing autem al",
+      "message": "Adipisicing autem al Adipisicing autem al Adipisicing autem al Adipisicing autem al Adipisicing autem al Adipisicing autem al",
+      "readed": true,
+      "date": "2025-01-31T14:42:19.980Z",
+      "__v": 0
+    },
+    {
+      "_id": "679ce7b6b9f2ccf27e1f9c13",
+      "name": "‪Mohamed Badawy‬‏",
+      "email": "mohamedbadawysayed02@gmail.com",
+      "subject": "Adipisicing autem al11",
+      "message": "Adipisicing autem al11",
+      "readed": true,
+      "date": "2025-01-31T15:09:42.031Z",
+      "__v": 0
+    },
+    {
+      "_id": "679ce836b9f2ccf27e1f9c23",
+      "name": "‪Mohamed Badawy‬‏",
+      "email": "mohamedbadawysayed02@gmail.com",
+      "subject": "Sint nostrum eveniet",
+      "message": "ds",
+      "readed": true,
+      "date": "2025-01-31T15:11:50.732Z",
+      "__v": 0
+    },
+    {
+      "_id": "67adaa9119e8251d90084261",
+      "name": "Roth Carr",
+      "email": "zuluwyzyw@mailinator.com",
+      "subject": "Tempora omnis in exp",
+      "message": "Omnis et qui invento",
+      "readed": true,
+      "date": "2025-02-13T08:17:21.662Z",
+      "__v": 0
+    },
+    {
+      "_id": "67adaab519e8251d9008426a",
+      "name": "‪Mohamed Badawy‬‏",
+      "email": "mohamedbadawysayed02@gmail.com",
+      "subject": "استفسار عن سعر الشقة ",
+      "message": "استفسار عن سعر الشقة  ",
+      "readed": true,
+      "date": "2025-02-13T08:17:57.502Z",
+      "__v": 0
+    },
+    {
+      "_id": "67adaaca19e8251d90084270",
+      "name": "‪Mohamed Badawy‬‏",
+      "email": "mohamedbadawysayed02@gmail.com",
+      "subject": "استفسار عن سعر الشقة ",
+      "message": "استفسار عن سعر الشقة  استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة استفسار عن سعر الشقة ",
+      "readed": true,
+      "date": "2025-02-13T08:18:18.123Z",
+      "__v": 0
+    },
+    {
+      "_id": "67adba0e482060487dc8255c",
+      "name": "Alfonso Holt",
+      "email": "wynekizoto@mailinator.com",
+      "subject": "Dolor officia omnis ",
+      "message": "Sunt sed qui dolori",
+      "readed": true,
+      "date": "2025-02-13T09:23:26.833Z",
+      "__v": 0
+    },
+    {
+      "_id": "67adbd3a482060487dc82745",
+      "name": "Isabelle Meyer",
+      "email": "fupimos@mailinator.com",
+      "subject": "Officia ad nihil omn",
+      "message": "Quo eveniet dolorem",
+      "readed": true,
+      "date": "2025-02-13T09:36:58.975Z",
+      "__v": 0
+    },
+    {
+      "_id": "67adbd49482060487dc8275d",
+      "name": "Eaton Preston",
+      "email": "lahakin@mailinator.com",
+      "subject": "Velit doloribus tot",
+      "message": "Est proident quas ",
+      "readed": true,
+      "date": "2025-02-13T09:37:13.221Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b4b6921cf7dbae13fe5d32",
+      "name": "محمد بدوى",
+      "email": "mohamedbadawysayed02@gmail.com",
+      "subject": "استفسار ",
+      "message": "أرغب في معرفة التفاصيل الكاملة حول عملية شراء عقار، بدءًا من البحث عن العقار المناسب وحتى توقيع العقد، بما في ذلك الأوراق المطلوبة، والرسوم المحتملة، والإجراءات القانونية.",
+      "readed": true,
+      "date": "2025-02-18T16:34:26.256Z",
+      "__v": 0
+    },
+    {
+      "_id": "67c06bb8012eecd036d9d6b0",
+      "name": "‪Mohamed Badawy‬‏",
+      "email": "mohamedbadawysayed02@gmail.com",
+      "subject": "بيل",
+      "message": "معلومات التواصل\n",
+      "readed": true,
+      "date": "2025-02-27T13:42:16.662Z",
+      "__v": 0
+    }
+  ],
+  "users": [
+    {
+      "_id": "67c600a5193d284bc2ff6230",
+      "name": "‪Mohamed Badawy‬‏",
+      "email": "user1@gmail.com",
+      "phone": "+201095529897",
+      "password": "$2a$10$SbpHKKqEDsS2AyFeglpJx.c5cu07dinhXGT7g8O/5LFwDDfDLOVJi",
+      "role": "user",
+      "status": "active",
+      "verified": false,
+      "about": "",
+      "address": "مصر",
+      "active": true,
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/uae-realestate.firebasestorage.app/o/images%2Fprofile.jpg?alt=media&token=9a6d34ae-2bc6-4fe9-ba6b-91777e3305d9",
+      "createdAt": "2025-03-03T19:19:01.809Z",
+      "updatedAt": "2025-03-03T19:19:01.809Z",
+      "__v": 0
+    },
+    {
+      "_id": "67c6c8f8d3caff25d33983d2",
+      "name": "احمد جمال",
+      "email": "user2@gmail.com",
+      "phone": "+201095529897",
+      "password": "$2a$10$DUf3p0vu5aygGlG5e2P.Ge/qKIq/6i7ETgZFdoA/RdX/n8MYIw7Vi",
+      "role": "user",
+      "status": "active",
+      "verified": false,
+      "about": "",
+      "address": "مصر",
+      "active": true,
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/uae-realestate.firebasestorage.app/o/images%2Ftemp-Bio(4).png?alt=media&token=13202d35-384e-4369-a29f-e20b05cec2bc",
+      "createdAt": "2025-03-04T09:33:44.620Z",
+      "updatedAt": "2025-03-04T09:33:44.620Z",
+      "__v": 0
+    },
+    {
+      "_id": "67c6cee9d3caff25d33984bc",
+      "name": "ابراهيم على",
+      "email": "admin1@gmail.com",
+      "phone": "+201095529897",
+      "password": "$2a$10$sotEc2YjgJXnSP6w8ZkxOuc/jFrGyz.Nld6EIg7yzW2CLLIxmqDfy",
+      "role": "admin",
+      "status": "active",
+      "verified": false,
+      "about": "",
+      "address": "مصر",
+      "active": true,
+      "profileImage": "https://firebasestorage.googleapis.com/v0/b/uae-realestate.firebasestorage.app/o/images%2Fprofile.jpg?alt=media&token=9a6d34ae-2bc6-4fe9-ba6b-91777e3305d9",
+      "createdAt": "2025-03-04T09:59:05.438Z",
+      "updatedAt": "2025-03-04T09:59:05.438Z",
+      "__v": 0
+    }
+  ],
+  "propertylocations": [
+    {
+      "_id": "67964b854e8491ad2d57bc4f",
+      "name": "دبي",
+      "__v": 0
+    },
+    {
+      "_id": "67964b8b4e8491ad2d57bc51",
+      "name": "الشارقة",
+      "__v": 0
+    },
+    {
+      "_id": "67964b924e8491ad2d57bc53",
+      "name": "عجمان",
+      "__v": 0
+    },
+    {
+      "_id": "67964b9e4e8491ad2d57bc55",
+      "name": "رأس الخيمة",
+      "__v": 0
+    },
+    {
+      "_id": "67964ba74e8491ad2d57bc57",
+      "name": "الفجيرة",
+      "__v": 0
+    }
+  ],
+  "posts": [
+    {
+      "_id": "677c0d05d44c56528610d669",
+      "title": "sad",
+      "content": "das",
+      "__v": 0
+    },
+    {
+      "_id": "677c16f0aac200c2eb970548",
+      "title": "sdf",
+      "content": "dsf",
+      "__v": 0
+    },
+    {
+      "_id": "677c177baac200c2eb97054a",
+      "title": "ssssssssssssssssssssss",
+      "content": "dsafffffffffs",
+      "__v": 0
+    },
+    {
+      "_id": "677c49ef2e9c742dbc21bc7e",
+      "__v": 0
+    },
+    {
+      "_id": "677c550e41afcc2e6f5e454d",
+      "__v": 0
+    },
+    {
+      "_id": "677c554e41afcc2e6f5e454f",
+      "__v": 0
+    },
+    {
+      "_id": "677c55b641afcc2e6f5e4551",
+      "__v": 0
+    },
+    {
+      "_id": "677c564941afcc2e6f5e4553",
+      "__v": 0
+    }
+  ],
+  "homes": [
+    {
+      "_id": "67c6c743d3caff25d3398391",
+      "name": "شقة للبيع بكمبوند فيلدج ويست متشطبة بالتكيفات لشركة",
+      "add_Type": "679539cfcf51b9ca83f3f29e",
+      "description": "مسارات واسعة مخصصة لركوب الدراجات، والركض، وممارسة الرياضة.\nأماكن ترفيهية كبرى يتوفر بها كافة المرافق والألعاب والأنشطة المتعددة لجميع الأعمار\nمناطق تجارية ضخمة تضم عدد من المولات، والمحلات، والهايبر ماركت التي تقدم أفضل الماركات.\nمنطقة خدمية تضم المطاعم والكافيهات على الطراز العالمي\nكلوب هاوس وصالات جيم تتوفر بها أحدث الأجهزة الرياضية ومدربين على أعلى مستوى.\nنادٍ صحي يتوفر بداخله غرف سبا وجاكوزي، ومساج والتي تقدم أفضل الخدمات لراحة العملاء\nحمامات سباحة واسعة ومصممة على الطراز العالمي مناسبة للكبار والصغار\nأمن وحراسة على مدار 24 ساعة وبوابات إلكترونية وكاميرات مراقبة\n\n",
+      "size": "30000",
+      "propertyType": "67964b204e8491ad2d57bc47",
+      "locationCity": "67964b924e8491ad2d57bc53",
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/uae-realestate.firebasestorage.app/o/images%2Fimage_1%20(1).jpg?alt=media&token=e69f0da4-c136-47d5-a34d-7bd07c397911"
+      ],
+      "videos": [],
+      "location": {
+        "country": "الإمارات العربية المتحدة",
+        "city": "إمارة رأس الخيمة",
+        "district": "رأس الخيمة",
+        "lat": 25.700943388836112,
+        "lng": "55.868216756232776",
+        "link": ""
+      },
+      "owner": "67c600a5193d284bc2ff6230",
+      "display": false,
+      "verified": false,
+      "price": {
+        "amount": 120000,
+        "currency": "USD"
+      },
+      "views": 0,
+      "premium": false,
+      "floor_number": 3,
+      "rooms": 6,
+      "bathrooms": 4,
+      "createdAt": "2025-03-04T09:26:27.985Z",
+      "updatedAt": "2025-03-04T09:26:27.985Z",
+      "__v": 0
+    },
+    {
+      "_id": "67c6c7ded3caff25d33983a8",
+      "name": "للبيع بنتهاوس متشطب بالتكييفات كمبوند فيلدج ويست استلام فوري",
+      "add_Type": "679539b7cf51b9ca83f3f29c",
+      "description": "للبيع بنتهاوس بالتشطيب والتكييفات تكمله اقساط كمبوند فيلدج ويست\nمساحه 213 متر + 62 متر روف تراس\n\n3 غرف نوم منهم واحده ماستر / 3 حمام / مطبخ / ريسيبشن كبير / تراس\n\nمطلوب مقدم 7 مليون جنبه كاش ومتبقي تقسيط 6.3 مليون قسط حتي 2028",
+      "size": "33445",
+      "propertyType": "67964b2d4e8491ad2d57bc49",
+      "locationCity": "67964b924e8491ad2d57bc53",
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/uae-realestate.firebasestorage.app/o/images%2Fimage_1%20(3).jpg?alt=media&token=2b1bbf5a-a818-4436-be69-8413cb1c9174",
+        "https://firebasestorage.googleapis.com/v0/b/uae-realestate.firebasestorage.app/o/images%2Fimage_1%20(1).jpg?alt=media&token=bdf8befa-d030-444c-a644-6fb79acd53ba",
+        "https://firebasestorage.googleapis.com/v0/b/uae-realestate.firebasestorage.app/o/images%2Fimage_1.jpg?alt=media&token=896ea878-bdff-4e34-b1a1-c3b00cdb6efd",
+        "https://firebasestorage.googleapis.com/v0/b/uae-realestate.firebasestorage.app/o/images%2Fdownload.png?alt=media&token=bcca60e0-4f28-4eb0-bf6a-eb9904609049"
+      ],
+      "videos": [],
+      "location": {
+        "country": "الإمارات العربية المتحدة",
+        "city": "أبو ظبي",
+        "district": "أبوظبي",
+        "lat": 24.446504195737425,
+        "lng": "54.390479275548614",
+        "link": ""
+      },
+      "owner": "67c600a5193d284bc2ff6230",
+      "display": false,
+      "verified": false,
+      "price": {
+        "amount": 23000,
+        "currency": "USD"
+      },
+      "views": 0,
+      "premium": false,
+      "floor_number": 5,
+      "rooms": 4,
+      "bathrooms": 2,
+      "createdAt": "2025-03-04T09:29:02.710Z",
+      "updatedAt": "2025-03-04T09:29:02.710Z",
+      "__v": 0
+    },
+    {
+      "_id": "67c6c8a9d3caff25d33983bf",
+      "name": "فيلا من افخم الفلل في عجمان بدون دفعه اولى",
+      "add_Type": "679539a5cf51b9ca83f3f29a",
+      "description": "فيلا من افخم الفلل في عجمان بدون دفعه اولى\n\nفيلا للبيع في 1 الياسمين, الياسمين\n\n**فيلا أحلامك في الياسمين - تشطيب فاخر وموقع متميز!**\n\nهل تبحث عن **منزل الأحلام** في **أحد أفضل المواقع** في عجمان؟ إليك فرصة لا تعوض لامتلاك **فيلا فاخرة بتشطيب سوبر ديلوكس**، مع **تمويل بنكي 100%** ودون دفعه أولى!\n",
+      "size": "2300",
+      "propertyType": "67964b3f4e8491ad2d57bc4d",
+      "locationCity": "67964b924e8491ad2d57bc53",
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/uae-realestate.firebasestorage.app/o/images%2Fimages%20(1).jpeg?alt=media&token=5299a558-628b-42e1-98cd-23c63efb8d6b"
+      ],
+      "videos": [],
+      "location": {
+        "country": "الإمارات العربية المتحدة",
+        "city": "أبو ظبي",
+        "district": "منطقة الظفرة",
+        "lat": 23.281156772360266,
+        "lng": "54.25368766534749",
+        "link": ""
+      },
+      "owner": "67c600a5193d284bc2ff6230",
+      "display": false,
+      "verified": false,
+      "price": {
+        "amount": 2000000,
+        "currency": "USD"
+      },
+      "views": 0,
+      "premium": false,
+      "floor_number": 6,
+      "rooms": 4,
+      "bathrooms": 7,
+      "createdAt": "2025-03-04T09:32:25.677Z",
+      "updatedAt": "2025-03-04T09:32:25.677Z",
+      "__v": 0
+    },
+    {
+      "_id": "67c6c962d3caff25d33983f6",
+      "name": "بسعر لقطة وبدون دفعة مقدمة فيلا قريب المسجد",
+      "add_Type": "679539a5cf51b9ca83f3f29a",
+      "description": "فيلا تملك حر مع بدون مقدم قريبه من جميع الخدمات ومخرج دبي وقريب الشارقه وبجوار مسجد تصلح تمويل بنكي\nمن المالك مباشرة\n-2 طوابق مع فناء كبير- بسعر ممتاز وقابل للتفاوض - تملك حر لجميع الجنسيات - بدون أي رسوم خدمات سنوية\n● للبيع فيلا - 2 طوابق & فناء كبير - - قريب من شارع الشيخ محمد بن زايد - تملك حر لجميع الجنسيات مدى الحياة - مع إمكانية التمويل البنكي الميسر ويمكننا أيضا تغطية الدفعة الأولي المقدمة\n■ تتكون من /\n● صالة كبيرة ماستر + مجلس استقبال ماستر\n●5 غرف نوم ماستر مع خزائن مدمجة\n● مطبخ أساسي & مطبخ تحضيري",
+      "size": "5000",
+      "propertyType": "67964b3f4e8491ad2d57bc4d",
+      "locationCity": "67964b8b4e8491ad2d57bc51",
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/uae-realestate.firebasestorage.app/o/images%2Ftest_Image5.jpg?alt=media&token=69afed01-ba7a-412d-b7bd-dcd6585b134c"
+      ],
+      "videos": [],
+      "location": {
+        "country": "الإمارات العربية المتحدة",
+        "city": "أبو ظبي",
+        "district": "منطقة الظفرة",
+        "lat": 24.045682668459676,
+        "lng": "53.415153544313796",
+        "link": ""
+      },
+      "owner": "67c6c8f8d3caff25d33983d2",
+      "display": false,
+      "verified": false,
+      "price": {
+        "amount": 300000,
+        "currency": "USD"
+      },
+      "views": 2,
+      "premium": false,
+      "floor_number": 7,
+      "rooms": 9,
+      "bathrooms": 8,
+      "createdAt": "2025-03-04T09:35:30.708Z",
+      "updatedAt": "2025-03-04T09:46:18.218Z",
+      "__v": 0
+    },
+    {
+      "_id": "67c6ca9bd3caff25d3398421",
+      "name": "بيوت و فلل للبيع في 1 الياسمين, الياسمين",
+      "add_Type": "679539cfcf51b9ca83f3f29e",
+      "description": "مجلس رجال: مساحة واسعة مزودة بتصميم عصري، مع إضاءة طبيعية رائعة، مما يجعلها مثالية لاستقبال الضيوف.\nمجلس سيدات: يتميز بأجواء مريحة ومميزة، مع إمكانية تخصيصه حسب احتياجات العائلة.\nغرفة نوم ماستر: تحتوي على حمام خاص مع تصميم عصري، مما يوفر الخصوصية والراحة.",
+      "size": "40000",
+      "propertyType": "67964b2d4e8491ad2d57bc49",
+      "locationCity": "67964b9e4e8491ad2d57bc55",
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/uae-realestate.firebasestorage.app/o/images%2F-807-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%B5%D8%A7%D9%84%D9%88%D9%86%D8%A7%D8%AA-846-500.jpg?alt=media&token=27c36157-356b-46e8-80eb-611d44e5077e"
+      ],
+      "videos": [],
+      "location": {
+        "country": "الإمارات العربية المتحدة",
+        "city": "أبو ظبي",
+        "district": "أبوظبي",
+        "lat": 24.259863205741173,
+        "lng": "54.557951660156256",
+        "link": ""
+      },
+      "owner": "67c6c8f8d3caff25d33983d2",
+      "display": false,
+      "verified": false,
+      "price": {
+        "amount": 40000,
+        "currency": "USD"
+      },
+      "views": 0,
+      "premium": false,
+      "floor_number": 8,
+      "rooms": 5,
+      "bathrooms": 7,
+      "createdAt": "2025-03-04T09:40:43.982Z",
+      "updatedAt": "2025-03-04T09:40:43.982Z",
+      "__v": 0
+    },
+    {
+      "_id": "67c6cb51d3caff25d339845e",
+      "name": "شقة في ذا ميتركس،مدينة دبي الرياضية 1 غرفة",
+      "add_Type": "679539b7cf51b9ca83f3f29c",
+      "description": "تفاصيل الشقة:\n- تأجير حتى أغسطس 2025\n- المساحة 1,165.62 قدم مربع\n- أمن 24/7. \n- 1 مكان آمن لوقوف السيارات\n- مسبح كبير، مسبح للأطفال، صالة ألعاب رياضية مختلطة، ساونا، غرفة بخار وجاكوزي. \n- 2 دقيقة إلى المطاعم المرخصة من نادي إلس. - خط حافلة مباشر إلى مول الإمارات. \n- أقل من 10 دقائق بالسيارة إلى تيكوم والبرشاء ومارينا. \n- 12 دقيقة إلى مطار آل مكتوم وموقع إكسبو. \n- مسافة الاستيقاظ إلى حضانة Wonderyears ومدارس فيكتوري هايتس الابتدائية. \n- نفس مبنى كارفور",
+      "size": "3000",
+      "propertyType": "67964b204e8491ad2d57bc47",
+      "locationCity": "67964b924e8491ad2d57bc53",
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/uae-realestate.firebasestorage.app/o/images%2Ftest_Image3.jpeg?alt=media&token=3b85f840-0375-4be7-8ac3-95f5e736a64d"
+      ],
+      "videos": [],
+      "location": {
+        "country": "الإمارات العربية المتحدة",
+        "city": "أبو ظبي",
+        "district": "العين",
+        "lat": 24.439930126086725,
+        "lng": "55.29626385423413",
+        "link": ""
+      },
+      "owner": "67c6c8f8d3caff25d33983d2",
+      "display": false,
+      "verified": false,
+      "price": {
+        "amount": 103444,
+        "currency": "USD"
+      },
+      "views": 0,
+      "premium": false,
+      "floor_number": 6,
+      "rooms": 3,
+      "bathrooms": 7,
+      "createdAt": "2025-03-04T09:43:45.716Z",
+      "updatedAt": "2025-03-04T09:43:45.716Z",
+      "__v": 0
+    },
+    {
+      "_id": "67c6ce33d3caff25d33984a3",
+      "name": "شقة في القناة 2،مدينة دبي الرياضية 1 غرفة",
+      "add_Type": "679539b7cf51b9ca83f3f29c",
+      "description": "مدينة دبي الرياضية هي واحدة من أكثر المجتمعات السكنية والتجزئة والرياضية المتكاملة تميزا في دبي والعالم. موطن للملاعب الرياضية ذات المستوى العالمي وأكاديميات التدريب والمرافق الترفيهية. ",
+      "size": "56666",
+      "propertyType": "67964b354e8491ad2d57bc4b",
+      "locationCity": "67964b924e8491ad2d57bc53",
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/uae-realestate.firebasestorage.app/o/images%2F7-2-2023_22_07_54_GomhuriaOnline_611675800474.jpg?alt=media&token=f8a96494-2aa6-40ae-9e0d-bfc25a8ea742"
+      ],
+      "videos": [],
+      "location": {
+        "country": "الإمارات العربية المتحدة",
+        "city": "أبو ظبي",
+        "district": "أبوظبي",
+        "lat": 24.704411238079174,
+        "lng": "54.76048917284826",
+        "link": ""
+      },
+      "owner": "67c6c8f8d3caff25d33983d2",
+      "display": false,
+      "verified": false,
+      "price": {
+        "amount": 22222,
+        "currency": "USD"
+      },
+      "views": 0,
+      "premium": false,
+      "floor_number": 5,
+      "rooms": 7,
+      "bathrooms": 6,
+      "createdAt": "2025-03-04T09:56:03.682Z",
+      "updatedAt": "2025-03-04T09:56:03.682Z",
+      "__v": 0
+    }
+  ],
+  "payments": [
+    {
+      "_id": "67b2099cb0d12e4c15a362fc",
+      "amount": 1000,
+      "currency": "usd",
+      "created": "2025-02-16T15:51:56.887Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b209e34ff23b706657a0bb",
+      "amount": 1000,
+      "currency": "usd",
+      "created": "2025-02-16T15:53:07.329Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b20a034248cad85618b763",
+      "amount": 1000,
+      "currency": "usd",
+      "created": "2025-02-16T15:53:39.035Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b20af3570d2c3f3eea3e49",
+      "amount": 1000,
+      "currency": "usd",
+      "created": "2025-02-16T15:57:39.329Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b20afb570d2c3f3eea3e4b",
+      "amount": 1000,
+      "currency": "usd",
+      "created": "2025-02-16T15:57:47.062Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b20b4d34d480bc5807e707",
+      "amount": 1000,
+      "currency": "usd",
+      "created": "2025-02-16T15:59:09.963Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b20b6234d480bc5807e712",
+      "amount": 1000,
+      "currency": "usd",
+      "created": "2025-02-16T15:59:30.849Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b20bda34d480bc5807e714",
+      "amount": 1000,
+      "currency": "usd",
+      "created": "2025-02-16T16:01:30.676Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b20cf1c36891b0ce02ae60",
+      "amount": 1000,
+      "currency": "usd",
+      "created": "2025-02-16T16:06:09.089Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b20d04c36891b0ce02ae6b",
+      "amount": 1000,
+      "currency": "usd",
+      "created": "2025-02-16T16:06:28.190Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b2f3d87623383cbab24e89",
+      "amount": 1000,
+      "currency": "AED",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T08:31:20.917Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b2f435634b6878aeeac976",
+      "amount": 1000,
+      "currency": "AED",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T08:32:53.847Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b2f48d6094ae877eb94dc8",
+      "amount": 10000,
+      "currency": "AED",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T08:34:21.056Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b2f8af01a94c1ce9702b26",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T08:51:59.897Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b2f9160832b55bba548f72",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679dec6eeec3d2395f7b6815",
+      "created": "2025-02-17T08:53:42.807Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b2f9824105bb1bbf7397a7",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679dec6eeec3d2395f7b6815",
+      "created": "2025-02-17T08:55:30.133Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b2f9c6143547f2bd006f67",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679dec6eeec3d2395f7b6815",
+      "created": "2025-02-17T08:56:38.937Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b2fa72c6af1ef21de491bd",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T08:59:30.250Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b301354b1c7f0229eadb3a",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T09:28:21.476Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b3134c230234b51269585d",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679dec6eeec3d2395f7b6815",
+      "created": "2025-02-17T10:45:32.410Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b314f5f5fa75f1cc24c68d",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T10:52:37.267Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b315ab8d848b8a56b7127d",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T10:55:39.449Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b3191cf27a175b9e691853",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T11:10:20.738Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b31922f27a175b9e691865",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T11:10:26.570Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b3195055ef92a7d743a54e",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T11:11:12.878Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b3196c55ef92a7d743a560",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T11:11:40.710Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b3196f55ef92a7d743a570",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T11:11:43.372Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b3197555ef92a7d743a584",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T11:11:49.384Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b3197855ef92a7d743a596",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T11:11:52.166Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b3199e67a5939a09e6d4ed",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T11:12:30.347Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b319d467a5939a09e6d502",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T11:13:24.725Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b319e667a5939a09e6d517",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "679f92da0674c23b60fd316f",
+      "created": "2025-02-17T11:13:42.363Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b31cc867a5939a09e6d581",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "679de6a2eec3d2395f7b66f2",
+      "apartment": "67962f1f4e8491ad2d57bae2",
+      "created": "2025-02-17T11:26:00.444Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b4402da44d914887ff7d70",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "67b336f1b4f170ebcebffa31",
+      "apartment": "67b33e20b4f170ebcebffaea",
+      "created": "2025-02-18T08:09:17.859Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b46a171fec2ade835473a3",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "67b336f1b4f170ebcebffa31",
+      "apartment": "67b33f08b4f170ebcebffb3c",
+      "created": "2025-02-18T11:08:07.977Z",
+      "__v": 0
+    },
+    {
+      "_id": "67b4b8391cf7dbae13fe5e67",
+      "amount": 10000,
+      "currency": "aed",
+      "description": "شراء إعلان مميز",
+      "status": "Done",
+      "user": "67b336f1b4f170ebcebffa31",
+      "apartment": "67b33f08b4f170ebcebffb3c",
+      "created": "2025-02-18T16:41:29.694Z",
+      "__v": 0
+    }
+  ],
+  "propertydeals": [
+    {
+      "_id": "679539a5cf51b9ca83f3f29a",
+      "name": "بيع",
+      "__v": 0
+    },
+    {
+      "_id": "679539b7cf51b9ca83f3f29c",
+      "name": "شراء",
+      "__v": 0
+    },
+    {
+      "_id": "679539cfcf51b9ca83f3f29e",
+      "name": "للإيجار",
+      "__v": 0
+    }
+  ],
+  "projects": [
+    {
+      "_id": "67af2fcb3895a5969577cefa",
+      "personalInformation": [
+        {
+          "studentName": "Adipisicing eu quisq",
+          "graduationYear": 2025,
+          "email": "gikusuhude@mailinator.com",
+          "phoneNumber": "Reprehenderit neque",
+          "_id": "67af2fcb3895a5969577cefb"
+        }
+      ],
+      "projectNameArabic": "ssss",
+      "projectNameEnglish": "rrrrrr",
+      "universityName": "جامعة الأقصر",
+      "collegeName": "الحاسبات والمعلومات",
+      "projectDescription": "dsf",
+      "projectDomain": "حلول مبتكرة لتعزيز الخدمات الصحية",
+      "targetAudience": "dsdsds",
+      "communicationChannels": [
+        "الموقع الإلكتروني",
+        "البريد الإلكتروني"
+      ],
+      "innovation": "dsds",
+      "socialEconomicImpact": "sdds",
+      "expectedRevenue": "dd",
+      "expectedExpenses": "d",
+      "fundingDetails": "d",
+      "fundingSupport": "true",
+      "projectTimeline": "sd",
+      "futureExpansionPlans": "ds",
+      "attachments": {
+        "additionalAttachments": "",
+        "businessModelCanvas": ""
+      },
+      "createdAt": "2025-02-14T11:58:03.073Z",
+      "updatedAt": "2025-02-14T11:58:03.073Z",
+      "__v": 0
+    }
+  ],
+  "propertytypes": [
+    {
+      "_id": "67964b204e8491ad2d57bc47",
+      "name": "شقق",
+      "__v": 0
+    },
+    {
+      "_id": "67964b2d4e8491ad2d57bc49",
+      "name": "ابراج",
+      "__v": 0
+    },
+    {
+      "_id": "67964b354e8491ad2d57bc4b",
+      "name": "قطعة ارض",
+      "__v": 0
+    },
+    {
+      "_id": "67964b3f4e8491ad2d57bc4d",
+      "name": "فيلا",
+      "__v": 0
+    }
+  ],
+  "categories": [
+    {
+      "_id": "677c523f9356550f8213bd6e",
+      "createdAt": "2025-01-06T21:59:27.439Z",
+      "updatedAt": "2025-01-06T21:59:27.439Z",
+      "__v": 0
+    },
+    {
+      "_id": "677c566441afcc2e6f5e4555",
+      "name": "Bwy",
+      "description": "As@1234",
+      "createdAt": "2025-01-06T22:17:08.968Z",
+      "updatedAt": "2025-01-06T22:17:08.968Z",
+      "__v": 0
+    },
+    {
+      "_id": "677c589a77d61ab562118f1e",
+      "name": "Bwsy",
+      "description": "As@1234",
+      "createdAt": "2025-01-06T22:26:34.851Z",
+      "updatedAt": "2025-01-06T22:26:34.851Z",
+      "__v": 0
+    },
+    {
+      "_id": "677c5c00a873a87dc4ee31fb",
+      "name": "Bddddddddd",
+      "description": "As@1234",
+      "createdAt": "2025-01-06T22:41:04.928Z",
+      "updatedAt": "2025-01-06T22:41:04.928Z",
+      "__v": 0
+    },
+    {
+      "_id": "677d07cd1481335eb39e74e4",
+      "name": "nohsdssshhh",
+      "description": "Asssssssss@1234",
+      "createdAt": "2025-01-07T10:54:05.702Z",
+      "updatedAt": "2025-01-07T23:19:15.646Z",
+      "__v": 0
+    },
+    {
+      "_id": "677d1944d572a062f0880828",
+      "name": "Bdddddddds33d",
+      "description": "As@1234",
+      "createdAt": "2025-01-07T12:08:36.982Z",
+      "updatedAt": "2025-01-07T12:08:36.982Z",
+      "__v": 0
+    },
+    {
+      "_id": "677d1d4904cbe3b3fcf9c9a4",
+      "name": "Bddddxd33d",
+      "description": "As@1234",
+      "createdAt": "2025-01-07T12:25:45.843Z",
+      "updatedAt": "2025-01-07T12:25:45.843Z",
+      "__v": 0
+    },
+    {
+      "_id": "677db7acd73887f14036086f",
+      "name": "nohsdssshhh11",
+      "description": "Asssssssss@1234",
+      "createdAt": "2025-01-07T23:24:28.533Z",
+      "updatedAt": "2025-01-07T23:24:28.533Z",
+      "__v": 0
+    },
+    {
+      "_id": "677e36fa3a09c97ce404f2ee",
+      "name": "nohsdshhhsshhh11",
+      "description": "Asssssssss@1234",
+      "createdAt": "2025-01-08T08:27:38.203Z",
+      "updatedAt": "2025-01-08T08:27:38.203Z",
+      "__v": 0
+    },
+    {
+      "_id": "677ea2d143ce299f7339d1b7",
+      "name": "Alice Broe Brown",
+      "description": "dd",
+      "createdAt": "2025-01-08T16:07:45.070Z",
+      "updatedAt": "2025-01-08T16:07:45.070Z",
+      "__v": 0
+    },
+    {
+      "_id": "678a9cfb198730802209ae16",
+      "name": "Yael Hester",
+      "description": "Est eligendi consequ",
+      "createdAt": "2025-01-17T18:10:03.925Z",
+      "updatedAt": "2025-01-17T18:10:03.925Z",
+      "__v": 0
+    },
+    {
+      "_id": "678aa047f00290ed6090466d",
+      "name": "cvcx",
+      "description": "dsd",
+      "createdAt": "2025-01-17T18:24:07.824Z",
+      "updatedAt": "2025-01-17T18:24:07.824Z",
+      "__v": 0
+    }
+  ],
+  "notifications": [],
+  "settings": [
+    {
+      "_id": "679d00c1bf3163cdebbb1154",
+      "companyName": "منصةعقارات الإمارات",
+      "email": "info@company.com",
+      "phone": "+966 50 123 4567 ",
+      "whatsapp": "+966 50 123 4567",
+      "address": "شارع التخصصي، مبنى 12322",
+      "workHours": "السبت - الخميس: 9 صباحًا - 5 مساءً",
+      "socialMedia": {
+        "facebook": "https://facebook.com/company",
+        "instagram": "https://instagram.com/company",
+        "twitter": "https://twitter.com/company",
+        "linkedin": "http://localhost:5173/dashboard"
+      },
+      "createdAt": "2025-01-31T16:56:33.687Z",
+      "updatedAt": "2025-02-17T08:26:09.961Z",
+      "__v": 0,
+      "adsPrice": 100
+    }
+  ]
+}

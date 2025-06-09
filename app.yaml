@@ -1,0 +1,7 @@
+runtime: nodejs20
+instance_class: F1
+env: standard
+handlers:
+  - url: /.*
+    script: auto
+entrypoint: node app.js
