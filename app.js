@@ -90,13 +90,30 @@ io.on("connection", (socket) => {
   // ✅ Handle sending messages with persistence
   socket.on("send-msg", async (data) => {
     try {
-      const { receiverId, content } = data;
+      const { receiverId, content, messageId } = data; // Add messageId for deduplication
 
       if (!receiverId || !content?.trim()) {
         return socket.emit("msg-error", { error: "Invalid message data" });
       }
 
       const senderId = socket.user.username || socket.user.id;
+
+      // Check if message already exists (deduplication)
+      if (messageId) {
+        const existingMessage = await Message.findById(messageId);
+        if (existingMessage) {
+          console.log(`📩 Message already exists: ${messageId}`);
+          return socket.emit("msg-sent", {
+            _id: existingMessage._id,
+            senderId: existingMessage.senderId,
+            receiverId: existingMessage.receiverId,
+            content: existingMessage.content,
+            timestamp: existingMessage.timestamp,
+            conversationId: existingMessage.conversationId,
+            isRead: existingMessage.isRead,
+          });
+        }
+      }
 
       // Find or create conversation
       let conversation = await Conversation.findOne({
@@ -110,19 +127,26 @@ io.on("connection", (socket) => {
       }
 
       // Save message to database
-      const newMessage = await Message.create({
+      const messageData = {
         senderId,
         receiverId,
         content: content.trim(),
         conversationId: conversation._id,
-      });
+      };
+
+      // Add custom _id if provided for deduplication
+      if (messageId) {
+        messageData._id = messageId;
+      }
+
+      const newMessage = await Message.create(messageData);
 
       // Update conversation
       conversation.lastMessage = newMessage._id;
       conversation.updatedAt = new Date();
       await conversation.save();
 
-      const messageData = {
+      const responseData = {
         _id: newMessage._id,
         senderId,
         receiverId,
@@ -137,11 +161,11 @@ io.on("connection", (socket) => {
       // Send to receiver if online
       const receiverSocketId = onlineUsers.get(receiverId);
       if (receiverSocketId) {
-        socket.to(receiverSocketId).emit("msg-receive", messageData);
+        socket.to(receiverSocketId).emit("msg-receive", responseData);
         socket.emit("msg-delivered", {
           messageId: newMessage._id,
           receiverId,
-          timestamp: messageData.timestamp,
+          timestamp: responseData.timestamp,
         });
       } else {
         socket.emit("msg-offline", {
@@ -152,9 +176,13 @@ io.on("connection", (socket) => {
       }
 
       // Confirm message sent
-      socket.emit("msg-sent", messageData);
+      socket.emit("msg-sent", responseData);
     } catch (err) {
       console.error("❌ Send message error:", err);
+      // Handle duplicate key error specifically
+      if (err.code === 11000) {
+        return socket.emit("msg-error", { error: "Message already exists" });
+      }
       socket.emit("msg-error", { error: "Failed to send message" });
     }
   });

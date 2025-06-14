@@ -26,7 +26,7 @@ const authenticateToken = (req, res, next) => {
 
 // Create/Send message
 router.post("/", authenticateToken, async (req, res) => {
-  const { receiverId, content } = req.body;
+  const { receiverId, content, messageId } = req.body; // Add messageId for deduplication
   const senderId = req.userId; // Get from JWT token
 
   console.log(
@@ -35,7 +35,9 @@ router.post("/", authenticateToken, async (req, res) => {
     "to:",
     receiverId,
     "content:",
-    content
+    content,
+    "messageId:",
+    messageId
   );
 
   try {
@@ -44,6 +46,19 @@ router.post("/", authenticateToken, async (req, res) => {
       return res.status(400).json({
         error: "Missing required fields: receiverId and content",
       });
+    }
+
+    // Check if message already exists (deduplication)
+    if (messageId) {
+      const existingMessage = await Message.findById(messageId);
+      if (existingMessage) {
+        console.log(`📩 Message already exists: ${messageId}`);
+        return res.status(200).json({
+          success: true,
+          message: existingMessage,
+          duplicate: true,
+        });
+      }
     }
 
     let conversation = await Conversation.findOne({
@@ -56,23 +71,37 @@ router.post("/", authenticateToken, async (req, res) => {
       });
     }
 
-    const newMessage = await Message.create({
+    const messageData = {
       senderId,
       receiverId,
       content: content.trim(),
       conversationId: conversation._id,
-    });
+    };
 
-    conversation.lastMessage = newMessage._id;
-    conversation.updatedAt = new Date();
-    await conversation.save();
+    // Add custom _id if provided for deduplication
+    if (messageId) {
+      messageData._id = messageId;
+    }
+
+    // const newMessage = await Message.create(messageData);
+
+    // conversation.lastMessage = newMessage._id;
+    // conversation.updatedAt = new Date();
+    // await conversation.save();
 
     res.status(201).json({
       success: true,
-      message: newMessage,
+      message: "newMessage",
     });
   } catch (err) {
     console.error("Error creating message:", err);
+    // Handle duplicate key error specifically
+    if (err.code === 11000) {
+      return res.status(409).json({
+        error: "Message already exists",
+        duplicate: true,
+      });
+    }
     res.status(500).json({ error: "Failed to send message" });
   }
 });

@@ -21,6 +21,10 @@ const messageSchema = new mongoose.Schema(
 // Compound indexes for efficient queries
 messageSchema.index({ senderId: 1, receiverId: 1, timestamp: -1 });
 messageSchema.index({ conversationId: 1, timestamp: -1 });
+messageSchema.index(
+  { senderId: 1, receiverId: 1, content: 1, timestamp: 1 },
+  { unique: true }
+);
 
 const Message = mongoose.model("Message", messageSchema);
 export default Message;
